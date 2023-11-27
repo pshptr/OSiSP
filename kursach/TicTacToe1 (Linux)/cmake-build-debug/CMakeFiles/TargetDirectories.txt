@@ -1,0 +1,3 @@
+/Users/petia/CLionProjects/TicTacToe3c/cmake-build-debug/CMakeFiles/TicTacToe3c.dir
+/Users/petia/CLionProjects/TicTacToe3c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/petia/CLionProjects/TicTacToe3c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
