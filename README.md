@@ -17,4 +17,4 @@
 
 ## [Курсовая работа](https://github.com/pshptr/OSiSP/tree/main/kursach)
 
-## [Лекции](https://github.com/pshptr/OSiSP/tree/main/Лекции ОСиСП)
+## [Лекции](https://github.com/pshptr/OSiSP/tree/main/лекции%20ОСиСП)
