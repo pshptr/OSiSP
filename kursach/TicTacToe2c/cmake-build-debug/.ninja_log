@@ -1,0 +1,8 @@
+# ninja log v5
+1	573	1684259485278498360	CMakeFiles/TicTacToe2c.dir/main.c.o	6b1fa6a65a624e39
+7	858	1684260453638048718	CMakeFiles/TicTacToe2c.dir/server.c.o	d81964d9a72ca1af
+6	857	1684260453638333155	CMakeFiles/TicTacToe2c.dir/client.c.o	9728e36f2d265d8d
+3	489	1684260562570824541	CMakeFiles/TicTacToe2c.dir/main.c.o	6b1fa6a65a624e39
+3	808	1684260692358394991	CMakeFiles/TicTacToe2c.dir/client.c.o	9728e36f2d265d8d
+4	810	1684260692358349497	CMakeFiles/TicTacToe2c.dir/server.c.o	d81964d9a72ca1af
+810	987	1684260692545267331	TicTacToe2c	f411a37380cb90fb
